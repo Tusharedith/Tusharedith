@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tusharedith</h1>
-<h3 align="center">Data, React, and a Bit of Cyber</h3>
+<h3 align="center">B.Tech Computer Science Student | AI &amp; Generative AI Enthusiast | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharedith&label=Profile%20views&color=0e75b6&style=flat" alt="tusharedith" /> </p>
 
@@ -8,7 +8,6 @@
 <img align = "right" alt = coding man width = "300" src="giphy.gif">
 
 
-- 🔭 I’m currently working on **AgiTech**
 - 🚀 Launching code
 - 🌟 Transforming caffeine into code, one line at a time
 - 🧩 Solving puzzles: Turning "How is this possible?" into "That was clever!"
