@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Swarnkar;AI+%26+GenAI+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=100&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Swarnkar;AI+%26+GenAI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🎓 B.Tech CSE @ Bennett University | 🧠 AI Research Enthusiast | 💻 Building Intelligent Systems</h3>
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh5cnV1aWFmdGxrMTQxd3kzcGJrYXJncmhkNzEybnZ1bTRob281ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 
 ### 🚀 About Me
 
@@ -21,7 +21,6 @@
 - 📝 Published researcher in **IEEE conferences** (2 papers)
 - 🏆 **Top 3% (14th/1800+)** at TechSprint Hackathon 2025
 - 💡 Passionate about **ML, Deep Learning & Full-Stack Development**
-- 🎯 **150+ DSA problems** solved on LeetCode
 - 🌱 Currently exploring **MLOps, Advanced AI & Cloud Architecture**
 - 💻 Check out my portfolio: **[tusharswarnkar.vercel.app](https://tusharswarnkar.vercel.app/)**
 - ⚡ Fun fact: **Transforming caffeine into code, one line at a time** ☕→💻
@@ -55,77 +54,50 @@
 
 ---
 
-## 🛠️ Skills & Technologies
+## 💻 Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,dart,sql" alt="Languages" />
+</p>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,keras" alt="ML Frameworks" />
+</p>
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,tailwind,html,css,vercel" alt="Web Development" />
+</p>
 
-### 🧠 Generative AI & LLMs
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![GPT-2](https://img.shields.io/badge/GPT--2-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral--7B-FF7000?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman,figma" alt="Tools" />
+</p>
 
-### ⚙️ MLOps & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-239120?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,postgresql,mysql,mongodb,firebase" alt="Cloud & Databases" />
+</p>
 
-### ☁️ Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🧠 AI & Specialized Technologies
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/RAG_Systems-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/ChromaDB-orange?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/GPT--2-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-2"/>
+  <img src="https://img.shields.io/badge/Mistral--7B-FF7000?style=for-the-badge" alt="Mistral"/>
+  <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Transformers"/>
+</p>
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"/>
+</p>
 
 ---
 
@@ -182,43 +154,30 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tusharedith&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharedith&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=c9d1d9" alt="Activity Graph" width="48%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tusharedith&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Top Contributed Repo" width="48%"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tusharedith&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Tusharedith&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=4" alt="Trophies"/>
 </p>
 
 <div align="center">
+
+### 🌟 Milestones
 
 | 🏆 Achievement | 📝 Details |
 |:---:|:---:|
 | 🥉 **TechSprint Hackathon 2025** | Top 3% (14th/1800+) |
 | 📄 **IEEE ICCCNT 2025** | Published Research Paper |
 | 🎵 **IEEE TEMS-MET 2025** | Published Research Paper |
-| 💪 **LeetCode** | 150+ Problems Solved |
-| 🎓 **CGPA** | 8.0/10 |
+| 💪 **LeetCode** | 250+ Problems Solved |
+| ⭐ **GitHub** | Active Open Source Contributor |
 
 </div>
-
----
-
-
-## 🎯 What I'm Up To
-
-```javascript
-const tushar = {
-    currentlyLearning: ["Advanced LLM Fine-tuning", "Multi-Agent Systems", "MLOps"],
-    building: ["RAG Applications", "AI Automation Tools", "Smart Surveillance Systems"],
-    interests: ["Generative AI", "Deep Learning", "Computer Vision", "NLP"],
-    askMeAbout: ["AI/ML", "GenAI", "Full-Stack Dev", "System Design", "DSA"],
-    funFact: "I debug code faster than I make coffee ☕"
-};
-```
 
 ---
 
@@ -230,18 +189,11 @@ const tushar = {
 
 ---
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <b>💼 Portfolio:</b> <a href="https://tusharswarnkar.vercel.app/">tusharswarnkar.vercel.app</a><br>
-  <b>📧 Email:</b> tusharswarnkar2525@gmail.com<br>
-  <b>🔗 LinkedIn:</b> <a href="https://linkedin.com/in/tushar-swarnkar-590815251">tushar-swarnkar-590815251</a>
-</p>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### 💼 Portfolio: [tusharswarnkar.vercel.app](https://tusharswarnkar.vercel.app/)
+  ### 📧 Email: tusharswarnkar2525@gmail.com
   
   ### ⭐ Show some love by starring repositories you like!
   
